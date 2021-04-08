@@ -1,0 +1,5 @@
+Fittest Chromosome in Generation 0 has a fitness value of: 10034
+Fittest Chromosome in Generation 1 has a fitness value of: 5008
+Fittest Chromosome in Generation 2 has a fitness value of: 5012
+Fittest Chromosome in Generation 3 has a fitness value of: 15404
+Fittest Chromosome in Generation 4 has a fitness value of: 5070
